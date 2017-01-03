@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <link rel="stylesheet" href="/home/hackit/PycharmProjects/BlogSpot/main.css">
+<style>
+    h1 {
+    text-align: center;
+    color: darkorange;
+}
+</style>
+  <title>Mieh Yiem Longx Nyei Fai?</title>
+</head>
+<hr>
+<body>
+  <h1 href="/blog" class="main-title">
+      Mien Word of the Month!
+  </h1>
+<hr>
+  <div style="align-content: flex-end" class="logout"><a href="/logout">logout</a></div>
+  <br>
+  <br>
+
+    <form method="post">
+      <label>
+        <div>subject</div>
+        <input type="text" name="commenttitle" value="{{cpost.comment_title}}">
+      </label>
+
+      <label>
+        <div>blog</div>
+        <textarea name="commentdescription">{{cpost.comment_description}}</textarea>
+      </label>
+
+      <div class="error">{{error}}</div>
+
+      <input type="submit">
+    </form>
+  <br>
+  <br>
+  <br>
+    <a href="/blog">Cancel</a>
+</body>
+</html>

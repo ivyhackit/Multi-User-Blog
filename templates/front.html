@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div style="align-content: flex-end" class="logout"><a href="/logout">logout</a></div>
+  {% for p in posts %}
+    {{ p.render() | safe }}
+    <br><br>
+  {% endfor %}
+
+{% endblock %}

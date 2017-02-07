@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"head\tTag"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"out",
+				"output_hidden"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"hi",
+				"hidden_html"
+			],
+			[
+				"fo",
+				"form_html"
+			],
+			[
+				"form",
+				"form_html"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"b",
+				"b\tTag"
+			],
+			[
+				"ra",
+				"radio"
+			],
+			[
+				"r",
+				"radi"
+			],
+			[
+				"col",
+				"col-md-10"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"MAX",
+				"max-height"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"bo",
+				"block"
+			],
+			[
+				"poop",
+				"poop"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"d",
+				"dir\tTag"
+			],
+			[
+				"file",
+				"fileinfo"
+			],
+			[
+				"fi",
+				"fileinfo"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"da",
+				"displaydata"
+			],
+			[
+				"fin",
+				"function"
+			],
+			[
+				"page",
+				"page-wrapper"
+			],
+			[
+				"my",
+				"my_event"
+			],
+			[
+				"eve",
+				"eventMess"
+			],
+			[
+				"even",
+				"eventAddress"
+			],
+			[
+				"e",
+				"eName"
+			],
+			[
+				"g",
+				"gList"
+			],
+			[
+				"eT",
+				"eType"
+			],
+			[
+				"for",
+				"formcon"
+			],
+			[
+				"Host",
+				"Host"
+			],
+			[
+				"tYP",
+				"Type"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"event",
+				"event_eTime"
+			],
+			[
+				"gues",
+				"guestList"
+			],
+			[
+				"gu",
+				"guestList"
+			],
+			[
+				"hos",
+				"hostName"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"ev",
+				"eventName"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ser",
+				"server"
+			],
+			[
+				"auto",
+				"autoConnect"
+			],
+			[
+				"t",
+				"tr\tTag"
+			],
+			[
+				"hot",
+				"hostName"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"mes",
+				"mesGuest"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"end",
+				"endTime"
+			],
+			[
+				"mod",
+				"modal-content"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"info",
+				"infoeve"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"action",
+				"action"
+			],
+			[
+				"Str",
+				"strong"
+			],
+			[
+				"an",
+				"requestAnimationFrame"
+			],
+			[
+				"pr",
+				"proto\tPrototype"
+			],
+			[
+				"To",
+				"ToggleTracker"
+			],
+			[
+				"sil",
+				"sliding"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"mm",
+				"mmcount"
+			],
+			[
+				"last",
+				"lastsubmit"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hackit/PycharmProjects/BlogSpot/templates/front.html",
+		"/home/hackit/PycharmProjects/BlogSpot/templates/login-form.html",
+		"/home/hackit/PycharmProjects/BlogSpot/templates/newpost.html",
+		"/home/hackit/PycharmProjects/BlogSpot/templates/welcome.html",
+		"/home/hackit/PycharmProjects/BlogSpot/templates/signup-form.html",
+		"/home/hackit/python-docs-samples/appengine/standard/hello_world/app.yaml",
+		"/home/hackit/python-docs-samples/appengine/standard/hello_world/templates/shopping.html",
+		"/home/hackit/PycharmProjects/BlogSpot/templates/example.html",
+		"/home/hackit/PycharmProjects/BlogSpot/templates/base.html",
+		"/home/hackit/python-docs-samples/appengine/standard/hello_world/main.py",
+		"/home/hackit/PycharmProjects/BlogSpot/templates/editcom.html",
+		"/home/hackit/python-docs-samples/appengine/standard/hello_world/shopping.html",
+		"/home/hackit/python-docs-samples/appengine/flexible/static_files/templates/index.html",
+		"/home/hackit/python-docs-samples/appengine/standard/template/app.yaml",
+		"/home/hackit/python-docs-samples/appengine/standard/template/templates.py",
+		"/home/hackit/python-docs-samples/appengine/standard/template_lesson/templates.py",
+		"/home/hackit/python-docs-samples/appengine/standard/template_lesson/app.yaml",
+		"/home/hackit/Downloads/google-cloud-sdk/platform/google_appengine/google/appengine/ext/webapp/_template.py",
+		"/home/hackit/Downloads/google-cloud-sdk/platform/google_appengine/google/appengine/ext/webapp/template.py",
+		"/home/hackit/Desktop/python.py",
+		"/home/hackit/Desktop/form.html",
+		"/home/hackit/appengine-guestbook-python/guestbook.py",
+		"/home/hackit/appengine-guestbook-python/saved.html",
+		"/home/hackit/appengine-guestbook-python/index.html",
+		"/home/hackit/Documents/PDF/pdfmockup.html",
+		"/home/hackit/Documents/bootstrap-prestructure/style.css",
+		"/home/hackit/Documents/bootstrap-prestructure/bootstrap-prestructure.html",
+		"/home/hackit/Documents/Start/index.html",
+		"/home/hackit/Documents/Start/main.css",
+		"/home/hackit/Documents/css/style.css",
+		"/home/hackit/Documents/bootstrap-prestructure/bootstrap-prestructure.htm",
+		"/home/hackit/Downloads/framework/test.html",
+		"/home/hackit/Downloads/framework/css/main.css",
+		"/home/hackit/Desktop/portfolio/framework/css/main.css",
+		"/home/hackit/Desktop/portfolio/framework/test.html",
+		"/home/hackit/Downloads/hairsalon/con.html",
+		"/home/hackit/Downloads/hairsalon/style.css",
+		"/home/hackit/Downloads/hairsalon/serv.html",
+		"/home/hackit/Downloads/hairsalon/index.html",
+		"/home/hackit/template/sample.html",
+		"/home/hackit/Desktop/Move Time/template/website.html",
+		"/home/hackit/template/website.html",
+		"/home/hackit/website.html",
+		"/home/hackit/movies.html",
+		"/home/hackit/templates/website.html",
+		"/home/hackit/LocalServer /index.html",
+		"/home/hackit/website.py",
+		"/home/hackit/myapp/index.html",
+		"/home/hackit/myapp/main.css",
+		"/home/hackit/myapp/event.html",
+		"/home/hackit/myapp/http.js",
+		"/home/hackit/myapp/font-awesome.min.css",
+		"/home/hackit/Documents/ProjectFeedback/gulpfile.js",
+		"/home/hackit/Documents/ProjectFeedback/assets/js/main.js",
+		"/home/hackit/Documents/ProjectFeedback/assets/css/main.css",
+		"/home/hackit/Documents/ProjectFeedback/index.html",
+		"/home/hackit/Documents/ProjectFeedback/assets/css/ie8.css",
+		"/home/hackit/Documents/ProjectFeedback/assets/js/jquery.min.js",
+		"/home/hackit/Desktop/Project1/assets/css/main.css",
+		"/home/hackit/app/index.html",
+		"/home/hackit/Documents/ProjectFeedback/assets/css/font-awesome.min.css",
+		"/home/hackit/Desktop/ProjectFeedback/index.html",
+		"/home/hackit/Desktop/Project1/index.html",
+		"/home/hackit/Desktop/Project1/unused.html",
+		"/home/hackit/Desktop/Project1/README.txt",
+		"/home/hackit/first.c",
+		"/home/hackit/Brocfile.js",
+		"/home/hackit/gulpfile.js",
+		"/home/hackit/Desktop/start (2)/index.html",
+		"/home/hackit/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/hackit/start(Qucik)/index.html",
+		"/home/hackit/Toggle/js/app.js",
+		"/home/hackit/Toggle/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"project1",
+			"gall",
+			"clear",
+			"bs-example",
+			"be-example",
+			"modal",
+			"fileinfo",
+			"delivery",
+			"        \n",
+			"data",
+			"png",
+			"jpg",
+			"url",
+			"jpg",
+			"addevent",
+			"hackit",
+			".close",
+			"less",
+			"image avatar",
+			"input",
+			"8u 12u$(small)",
+			"8u",
+			"action",
+			"! ",
+			".jpg",
+			"overlay"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "base.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

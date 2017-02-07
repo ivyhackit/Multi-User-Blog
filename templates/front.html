@@ -2,6 +2,8 @@
 
 {% block content %}
   <div style="align-content: flex-end" class="logout"><a href="/logout">logout</a></div>
+  <a class="righta" href="/blog/newpost">Write a newpost</a>
+<br>
   {% for p in posts %}
     {{ p.render() | safe }}
     <br><br>

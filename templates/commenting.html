@@ -2,13 +2,8 @@
 <html lang="en">
 <head>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
- <link rel="stylesheet" href="/home/hackit/PycharmProjects/BlogSpot/main.css">
-<style>
-    h1 {
-    text-align: center;
-    color: darkorange;
-}
-</style>
+ <link rel="stylesheet" href="/main.css">
+
   <title>Mieh Yiem Longx Nyei Fai?</title>
 </head>
 <hr>
@@ -23,13 +18,14 @@
 
     <form method="post">
       <label>
-        <div>subject</div>
-        <input type="text" name="commenttitle" value="{{cpost.comment_title}}">
+        <div>Comment Title</div>
+        <input type="text" name="commenttitle" value="{{com_post.comment_title}}">
       </label>
-
+        <br>
+        <br>
       <label>
-        <div>blog</div>
-        <textarea name="commentdescription">{{cpost.comment_description}}</textarea>
+        <div>Comment</div>
+        <textarea name="commentdescription">{{com_post.comment_description}}</textarea>
       </label>
 
       <div class="error">{{error}}</div>
@@ -39,6 +35,16 @@
   <br>
   <br>
   <br>
+  <a href="/edit/{{com_post.key().id()}}/delete">Delete Comment</a>
     <a href="/blog">Cancel</a>
+  <br>
+  <br>
+</form>
+
+<form method="post">
+    <div>Like this post!</div>
+        <input type="submit" value="Like">
+         <div class="mess">{{mess}}</div>
+</form>
 </body>
 </html>

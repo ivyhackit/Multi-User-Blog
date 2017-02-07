@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
- <link rel="stylesheet" href="/home/hackit/PycharmProjects/BlogSpot/main.css">
-<style>
-    h1 {
-    text-align: center;
-    color: darkorange;
-}
-</style>
+ <link rel="stylesheet" href="/main.css">
+
   <title>Mieh Yiem Longx Nyei Fai?</title>
 </head>
 
@@ -22,18 +17,35 @@
 <hr>
 
   <div id="content"><a href="/blog/EditPost/{{post.key().id()}}">Edit this post</a>
+      <a href="/deletepost/{{post.key().id()}}">Delete this post</a>
+
+      <form method="post">
+      <label>
+        <div>Likes on this post</div>
+        <div name="likes">{{post.likes}}</div>
+      </label>
+
+      <div class="error">{{error}}</div>
+
+      <input type="submit" value="Like">
+</form>
 {% block content %}
   {{post.render() | safe}}
 {% endblock %}
   </div>
-<a href="/{{post.key().id()}}/comments">Comment on this post</a>
+<br>
+<br>
 
+<a href="/{{post.key().id()}}/comments">Comment on this post</a>
 {% for comments in post.comment_post %}
-<a href="/edit/{{comments.key().id()}}">Edit this post</a>
 <p>{{comments.comment_title}}</p>
 <p>{{comments.comment_description}}</p>
+<a href="/edit/{{comments.key().id()}}">Edit this post</a>
+<p>Likes: {{comments.likes}}</p>
+</form>
 {%endfor%}
 </body>
+
 
 
 </html>
